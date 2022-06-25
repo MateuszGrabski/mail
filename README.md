@@ -25,10 +25,10 @@ bootstrap - included
 
 jquery - included
 
-composer v2.3.7
-
 wamp 3.2.4.9
 
 PHP v7.4.9
 
 laravel v8.83.16
+
+(instalowane przez composer v2.3.7)
